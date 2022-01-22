@@ -1,1 +1,1 @@
-# ohtu-2022-viikko1
+# Ohjelmistotuotanto 2022 - vko1
